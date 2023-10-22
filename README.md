@@ -1,37 +1,36 @@
-## SOBREM MIM
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&size=30&pause=1000&center=true&width=600&lines=Hello%2C+World. I'm+Charles+Thiag0;%3C+Web+developer+%2F%3E" alt="Typing SVG" />
+</div>
 
-#### APRENDIZADO PRINCIPAL:
+< >
 
+## Sobre mim
+Minha jornada como desenvolvedor backend é guiada pelo compromisso com a constante aprendizagem. Meu objetivo é tornar a vida das pessoas mais simples e eficaz, aplicando a tecnologia de forma prática. Cada linha de código que escrevo é um passo em direção a um mundo mais conectado.
 
-![JAVA](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+### 
+Estou aberto a oportunidades que me permitam criar soluções e enfrentar novos desafios.
 
+## Main Tecnologies
+<div style="display: inline_block"><br>
+    <img align="center" alt="Java" height=40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg"/> 
+   <img align="center" alt="Git" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+</div>
+                                                                               
+</div>
 
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/143355945/269103168-88d55307-6e18-43b8-b315-6219cdf5d0aa.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<br><br>
 
+## Contact me 
 
-#### SISTEMAS OPERACIONAIS:
+<div align="center"> 
+   <a href="https://www.linkedin.com/in/charlles-thiago-49a698287/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
 
-![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-
-#### IDE:
-
-![ECLIPSE](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
-
-
-
-
-&nbsp;
-&nbsp;
-
-## CONTATOS:
-
-<div> 
-
-
-<a href="https://www.linkedin.com/in/charlles-thiago-49a698287/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>  
-</div>&nbsp;&nbsp;
+      
+  
 
  
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9F0D87&height=120&section=footer"/>
+ 
+<div align="center">
+
+</div>
