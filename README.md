@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&size=30&pause=1000&center=true&width=600&lines=Hello%2C+World. I'm+Charles+Thiag0;%3C+Desenvolvedor+Back-End+%2F%3E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&size=30&pause=1000&center=true&width=600&lines=Charles+Thiag0;%3C+Desenvolvedor+Back-End+%2F%3E" alt="Typing SVG" />
 </div>
  
 ## Sobre mim
