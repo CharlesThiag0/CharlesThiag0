@@ -1,11 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&size=30&pause=1000&center=true&width=600&lines=Hello%2C+World. I'm+Charles+Thiag0;%3C+Web+developer+%2F%3E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&size=30&pause=1000&center=true&width=600&lines=Hello%2C+World. I'm+Charles+Thiag0;%3C+Desenvolvedor+Back-End+%2F%3E" alt="Typing SVG" />
 </div>
-
- ![iconfinder-rootaccess-4417096_116625](https://github.com/CharlesThiag0/CharlesThiag0/assets/143355945/f01f3b7f-573d-4983-941b-2be7186bc474)
  
 ## Sobre mim
-Minha jornada como desenvolvedor backend é guiada pelo compromisso com a constante aprendizagem. Meu objetivo é tornar a vida das pessoas mais simples e eficaz, aplicando a tecnologia de forma prática. Cada linha de código que escrevo é um passo em direção a um mundo mais conectado.
+Sou um profissional dedicado ao trabalho em equipe. Possuo habilidades em administração e tecnologia para otimizar processos. Comprometido com a colaboração e resultados positivos.
 
 ### 
 Estou aberto a oportunidades que me permitam criar soluções e enfrentar novos desafios.
