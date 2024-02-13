@@ -1,6 +1,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&size=30&pause=1000&center=true&width=600&lines=Charles+Thiag0;%3C+Desenvolvedor+Back-End+%2F%3E" alt="Typing SVG" />
 </div>
+
+<img align="right" height="280" width="280" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" >
  
 ## Sobre mim
 Sou um profissional dedicado ao trabalho em equipe. Possuo habilidades em administração e tecnologia para otimizar processos. Comprometido com a colaboração e resultados positivos.
